@@ -43,7 +43,7 @@
 
 
 
-### Languages and Tools:
+
 
 
 <img align="left" alt="HTML5" width="90px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
