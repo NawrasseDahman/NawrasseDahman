@@ -52,7 +52,7 @@
 <img align="center" alt="Node.js" width="110px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="MongoDB" width="110px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="Express" width="110px" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge" />
+<img align="left" alt="Express" width="110px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="center" alt="TypeSctipt" width="130px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 
