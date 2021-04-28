@@ -35,7 +35,7 @@
 
 <a href="https://reddit.com/user/NawrasseDahman" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="nawrassedahman" /></a>
 
-<a href="https://codepen.io/nawrassedahman" target="blank"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="nawrassedahman" /></a>
+<a href="https://codepen.io/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="nawrassedahman" /></a>
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-
+### Languages and Tools:
 <img align="left" alt="HTML5" width="90px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" width="80px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align= "left" alt= "Flask" width="90px" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
