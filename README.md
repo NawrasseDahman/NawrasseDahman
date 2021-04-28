@@ -92,7 +92,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawrassedahman&show_icons=true&theme=dracula" alt="Nawrasse Dahman" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&hide=lua&theme=dracula" alt="Nawrasse Dahman's github stats"/>
+
 <div><img src="https://github-profile-trophy.vercel.app/?username=nawrassedahman&theme=dracula" width="1200"></div></p>
 
 
