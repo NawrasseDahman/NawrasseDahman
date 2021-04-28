@@ -91,7 +91,7 @@
 </p>
 
 
-<img align="center" src="https://github-stats-lovat-delta.vercel.app/api?username=nawrassedahman&show_icons=true&theme=dracula" alt="Nawrasse Dahman" height="200"/>
+
 
 
 
