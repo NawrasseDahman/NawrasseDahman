@@ -20,7 +20,7 @@
 
 - 🗣️ Ask me about **Javascript, Html, Python, GO**
 
-- 📧 How to reach me **ejohnny234@gmail.com**
+- 📧 How to reach me: **ejohnny234@gmail.com**
 
 - 🥋 Fun fact **I Know Martial Arts, Cooking**
 
