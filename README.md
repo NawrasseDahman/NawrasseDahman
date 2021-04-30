@@ -47,7 +47,7 @@
 
 
 
-### Languages and Tools:
+### Languages And Frameworks:
 <img align="left" alt="HTML5" width="90px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" width="80px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align= "left" alt= "Flask" width="90px" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
