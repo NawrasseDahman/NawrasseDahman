@@ -14,11 +14,11 @@
 
 - 🧠 Currently learning **Java, Typescript**
 
-- 👨‍💻 [My Website](https://nawrassedahman.github.io/)
+- 👨‍💻 Join My [My Website](https://nawrassedahman.github.io/) If Want More About Me
 
 - 🤩 Looking To Collaborate With **More Developers**
 
-- 🗣️ Ask me about **Javascript, Html, python, GO**
+- 🗣️ Ask me about **Javascript, Html, Python, GO**
 
 - 📧 How to reach me **ejohnny234@gmail.com**
 
