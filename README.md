@@ -10,11 +10,11 @@
 
 - 🤖 currently working on **Jinko Bot** And I Do A Bunch Of Other Stuff Suck As : **Websites/template, Bots In General**
 
-- 👀 Sometimes I Do Visual Stuff Like Vue.Js And React Etc..
+- 👀 Sometimes I Do Visual Stuff Like **Vue.Js And React Etc..**
 
 - 🧠 Currently learning **Java, Typescript**
 
-- 👨‍💻 Join My [Website](https://nawrassedahman.github.io/) If Want More About Me
+- 👨‍💻 Join My [Website](https://nawrassedahman.github.io/) **If Want More About Me**
 
 - 🤩 Looking To Collaborate With **More Developers**
 
