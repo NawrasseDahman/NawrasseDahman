@@ -8,22 +8,22 @@
 
 
 
-- 🤖 currently working on [Jinko Bot](https://github.com/JinkoBot) / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
+- 🤖 Currently Working On [Jinko Bot](https://github.com/JinkoBot) / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
 
 - 👀 Sometimes I Do Visual Stuff Like **Vue.Js And React Etc..**
 
-- 🧠 Currently learning **Java, Typescript**
+- 🧠 Currently Learning **Java, Typescript**
 
 - 👨‍💻 Join My [Website](https://nawrassedahman.github.io) **If Want More About Me**
 
 
 - 🤩 Looking To Collaborate With **More Developers**
 
-- 🗣️ Ask me about **Javascript, Html, Python, GO**
+- 🗣️ Ask Me About **Javascript, Html, Python, GO**
 
-- 📧 How to reach me: **nawrassedahman@outlook.com**
+- 📧 How To Reach Me: **nawrassedahman@outlook.com**
 
-- 🥋 Fun fact **I Know Martial Arts, Cooking**
+- 🥋 Fun Fact **I Know Martial Arts, Cooking**
 
 <p align="left">
 
