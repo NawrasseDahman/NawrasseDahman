@@ -8,7 +8,7 @@
 
 
 
-- 🤖 currently working on **Jinko Bot** / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
+- 🤖 currently working on [Jinko Bot](https://github.com/JinkoBot) / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
 
 - 👀 Sometimes I Do Visual Stuff Like **Vue.Js And React Etc..**
 
