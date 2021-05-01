@@ -82,7 +82,9 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman &hide=lua&theme=dracula" alt="NawrasseDahman's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawrassedahman&hide=lua&theme=dracula" alt="Nawrasse's github stats"/>
+
+
 
 
 
