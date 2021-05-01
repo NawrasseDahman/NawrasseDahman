@@ -107,7 +107,8 @@ Support Me By Clicking One Of The Links Below`
 
 </p>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawrassedahman&hide=lua&theme=dracula"
+alt="Nawrasse's Github Stats"/>
 
 
 
