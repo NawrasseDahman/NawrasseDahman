@@ -96,8 +96,7 @@
 
 
 
-`If You Want The Full Source Code To All My Visible And Private Projects
-Support Me By Clicking One Of The Links Below`
+
 
 
                                            
