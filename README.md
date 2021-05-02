@@ -34,7 +34,7 @@
 <a href="https://instagram.com/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nawrassedahman" /></a>
 
 
-<a href="https://discord.gg/Mpg9ZBfABS" target="blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nawrassedahman" /></a>
+<a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=Kmx1ouwuTMKV5xkxyGSJhA&utm_source=copy-link&dl_branch=1" target="blank"><img align="left" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="nawrassedahman" /></a>
 
 <a href="https://reddit.com/user/NawrasseDahman" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="nawrassedahman" /></a>
 
