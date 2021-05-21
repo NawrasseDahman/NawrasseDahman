@@ -12,7 +12,7 @@
 
 - 👀 Sometimes I Do Visual Stuff Like **Vue.Js And React Etc..**
 
-- 🧠 Currently Learning **Java, Typescript**
+- 🧠 Currently Learning **Everything**
 
 - 👨‍💻 Join My [Website](https://nawrassedahman.github.io) **If Want More About Me**
 
