@@ -109,7 +109,7 @@
 
 <a href="https://www.paypal.me/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPaL" width="150" /></a>
 
-<a href="https://www.buymeacoffee.com/NawrasseDahman" target="blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="nawrassedahman" height="45" width="150" /></a>
+
 
 </p>
 
