@@ -18,7 +18,7 @@
 
 - 🧠 Currently Learning **Everything**
 
-- 👨‍💻 Check Out My [Website](https://nawrassedahman.github.io) **If Want To Know More About Me**
+- 👨‍💻 Check Out My [Website](https://nawrassedahman.github.io) **If You Want To Know More About Me**
 
 
 - 🤩 Looking To Collaborate With **More Developers**
