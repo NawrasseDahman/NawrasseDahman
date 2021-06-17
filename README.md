@@ -14,7 +14,7 @@
 
 - 🤖 Currently Working On [Everything](https://github.com/NawrasseDahman) / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
 
-- 👀 Sometimes I Do Visual Stuff Like **Vue.Js And React Etc..**
+- 👀 Sometimes I Use **Vue.Js And React Etc..**
 
 - 🧠 Currently Learning **Everything**
 
