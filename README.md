@@ -14,7 +14,7 @@
 
 - 🤖 Currently Working On [Everything](https://github.com/NawrasseDahman) / I Do A Bunch Of Other Stuff Such As : **Websites/template, Bots In General**
 
-- 👑 Founder/CEO Of **@BrainStormGames**
+- 👑 Founder/CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
 
 - 👀 Sometimes I Use **Vue.Js And React Etc..**
 
