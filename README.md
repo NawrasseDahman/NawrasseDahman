@@ -39,7 +39,7 @@
 
 <a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=Kmx1ouwuTMKV5xkxyGSJhA&utm_source=copy-link&dl_branch=1" target="blank"><img align="left" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="nawrassedahman" /></a>
 
-<a href="https://reddit.com/user/nawrassehimself" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="nawrassedahman" /></a>
+<a href="https://discord.gg/wEdNaN8ZPP" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nawrassedahman" /></a>
 
 <a href="https://codepen.io/nawrassedahman" target="blank"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="nawrassedahman" /></a>
 
