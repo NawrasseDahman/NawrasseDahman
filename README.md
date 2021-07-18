@@ -10,7 +10,7 @@
 
 
 
-- 🤖 Currently Working On [Everything](https://github.com/NawrasseDahman) / I Do A Bunch Of Other Stuff Such As : **Websites/templates, Bots In General**
+- 🤖 Currently Working On [Everything](https://github.com/NawrasseDahman)
 
 - 👑 Founder/CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
 
