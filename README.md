@@ -10,7 +10,7 @@
 
 
 
-- 🤖 Currently Working On [Everything](https://github.com/NawrasseDahman)
+- 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
 - 👑 Founder/CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
 
@@ -18,7 +18,7 @@
 
 - 🧠 Currently Learning **Everything**
 
-- 👨‍💻 Check Out My [Website](https://nawrassedahman.github.io) **If You Want To Know More About Me**
+- 👨‍💻 Check Out My [**Website**](https://nawrassedahman.github.io) **If You Want To Know More About Me**
 
 - 🤩 Looking To Collaborate With **More Developers**
 
