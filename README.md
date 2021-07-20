@@ -12,7 +12,7 @@
 
 - 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
-- 👑 Founder/CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
+- 👑 Founder & CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
 
 - 👀 Sometimes I Use **Vue.Js And React Etc..**
 
