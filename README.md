@@ -24,7 +24,7 @@
 
 - 🗣️ Ask Me About **Javascript, Html, Python, GO**
 
-- 📧 How To Reach Me: **nawrassedahman@outlook.com**
+- 📧 How To Reach Me: **nawrassehimself@gmail.com**
 
 - 🥋 Fun Fact **I Know Martial Arts, Cooking**
 
