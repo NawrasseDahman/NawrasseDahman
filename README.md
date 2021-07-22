@@ -26,7 +26,7 @@
 
 - 📧 How To Reach Me: **nawrassehimself@gmail.com**
 
-- 🥋 Fun Fact **I Know Martial Arts, Cooking**
+- 🥋 Fun Fact **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
 <p align="left">
 
