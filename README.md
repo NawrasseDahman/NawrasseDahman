@@ -41,7 +41,7 @@
 
 <a href="https://discord.gg/wEdNaN8ZPP" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nawrassedahman" /></a>
 
-<a href="https://www.torproject.org/download/" target="blank"><img align="left" width="50px" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="nawrassedahman" /></a>
+<a href="https://www.torproject.org/download/" target="blank"><img align="left" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="nawrassedahman" /></a>
 
 <a href="https://www.facebook.com/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nawrassedahman" /></a>
 
