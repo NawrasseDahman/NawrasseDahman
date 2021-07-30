@@ -122,8 +122,4 @@
 
 
 ### Achievements
-<img align="center" alt="NawrasseDahman" src="github-readme-stats-nawrassedahman.vercel.app/api?username=NawrasseDahman">
-
-
-
-
+<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api?username=NawrasseDahman&show_icons=true&theme=dracula" alt="Nawrassedahman" height="200"/>
