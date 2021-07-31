@@ -24,7 +24,7 @@
 
 - 🤩 Looking To Collaborate With **More Developers**
 
-- 🗣️ Ask Me About **Javascript, Html, Python, GO**
+- 🗣️ Ask Me About **Programming Languages**
 
 - 📧 How To Reach Me: **nawrassehimself@gmail.com**
 
