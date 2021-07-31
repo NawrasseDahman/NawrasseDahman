@@ -27,9 +27,10 @@
 
 <p align="center">
 
-<h3 align="center">Connect With Me:</h3>
+<h3 align="left">Connect With Me:</h3>
 
-<a href="https://twitter.com/nawrassedahman" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nawrassedahman" /></a>
+<a href="https://twitter.com/nawrassedahman" target="blank"><img align="left"
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nawrassedahman" /></a>
 
 <a href="https://instagram.com/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nawrassedahman" /></a>
 
