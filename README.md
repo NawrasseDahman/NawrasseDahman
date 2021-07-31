@@ -31,18 +31,17 @@
 
 <h3 align="left">Connect With Me:</h3>
 
-<a href="https://twitter.com/nawrassedahman" target="blank"><img align="left"
-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nawrassedahman" /></a>
+- [Spotify](https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1)
 
-<a href="https://instagram.com/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nawrassedahman" /></a>
+- [Discord Server](https://discord.gg/wEdNaN8ZPP)
 
-<a href="https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1" target="blank"><img align="left" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="nawrassedahman" /></a>
+- [Codepen](https://codepen.io/nawrassedahman)
 
-<a href="https://discord.gg/wEdNaN8ZPP" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nawrassedahman" /></a>
+- [Twitter](https://twitter.com/nawrassedahman)
 
-<a href="https://codepen.io/nawrassedahman" target="blank"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="nawrassedahman" /></a>
+- [Instagram](https://www.instagram.com/nawrassedahman)
 
-<a href="https://www.facebook.com/nawrassedahman" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nawrassedahman" /></a>
+- [Facebook](https://www.facebook.com/nawrassedahman)
 
 
 ### Languages And Frameworks:
