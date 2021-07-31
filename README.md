@@ -39,6 +39,8 @@
 
 - [Dev.to](https://dev.to/nawrassedahman)
 
+- [Linkedin](https://www.linkedin.com/in/nawrassedahman/)
+
 - [Twitter](https://twitter.com/nawrassedahman)
 
 - [Instagram](https://www.instagram.com/nawrassedahman)
