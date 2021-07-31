@@ -37,6 +37,8 @@
 
 - [Codepen](https://codepen.io/nawrassedahman)
 
+- [Dev.to](https://dev.to/nawrassedahman)
+
 - [Twitter](https://twitter.com/nawrassedahman)
 
 - [Instagram](https://www.instagram.com/nawrassedahman)
