@@ -33,7 +33,7 @@
 
 - [Spotify](https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1)
 
-- [Discord Server](https://discord.gg/wEdNaN8ZPP)
+
 
 - [Codepen](https://codepen.io/nawrassedahman)
 
