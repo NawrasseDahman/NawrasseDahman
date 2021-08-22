@@ -21,8 +21,6 @@
 
 - 🗣️ Ask Me About **Programming Languages**
 
-- 😄 Pronouns: **He/Him**
-
 - 📧 How To Reach Me: **nawrassehimself@gmail.com**
 
 - 🎞️ Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
