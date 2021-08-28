@@ -82,4 +82,4 @@
 
 <img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages" width="510" />
 
-<img align="center" src="https://readme-jokes.vercel.app/api?username=NawrasseDahman&theme=dracula&acolor=white&qcolor=pink" alt="NawrasseDahman" />
+<img align="center" src="https://readme-jokes.vercel.app/api?username=NawrasseDahman&theme=dracula&acolor=white&qcolor=pink&bordercolor=white" alt="NawrasseDahman" />
