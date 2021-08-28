@@ -78,8 +78,8 @@
 
 ### Achievements:
   
-<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api?username=NawrasseDahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="NawrasseDahman" width="512" />
+<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api?username=NawrasseDahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=FFFFFF" alt="NawrasseDahman" width="512" />
 
-<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages" width="512" />
+<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages&border_color=FFFFFF" width="512" />
 
 <img align="center" src="https://readme-jokes.vercel.app/api?username=NawrasseDahman&theme=dracula&aColor=white&borderColor=white" alt="NawrasseDahman" width="512" />
