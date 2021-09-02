@@ -9,8 +9,6 @@
 
 - 👑 Founder & CEO Of [**@BrainStormGames**](https://github.com/BrainstormGames)
 
-- 👀 Sometimes I Use **Vue.Js And React Etc..**
-
 - 🧠 Currently Learning **Everything**
 
 - 👨‍💻 Check Out My [**Website**](https://nawrassedahman.github.io) **If You Want To Know More About Me**
