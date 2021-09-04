@@ -19,7 +19,7 @@
 
 - 🗣️ Ask Me About **Programming Languages**
 
-- 📧 How To Reach Me: **nawrassehimself@gmail.com**
+- 📧 How To Reach Me: **nawrassehimself@pm.me**
 
 - 🎞️ Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
