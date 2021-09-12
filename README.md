@@ -72,5 +72,5 @@
 ### Achievements:
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/878309088126197860)](https://discord.com/users/878309088126197860)
+
 <img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages&border_color=FFFFFF" width="512" />
-<img align="center" src="https://readme-jokes.vercel.app/api?username=NawrasseDahman&theme=dracula&aColor=white&borderColor=white" alt="NawrasseDahman" width="512" />
