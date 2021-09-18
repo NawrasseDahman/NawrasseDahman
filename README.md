@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Nawrasse Dahman | 👨‍💻 </h1>
-
+<h3 align="center">Hi, I'm Nawrasse Dahman | 👨‍💻 </h3>
 <h3 align="center">I'm A Full-Stack Developer & Designer</h3>
 <hr>
 
