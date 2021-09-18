@@ -21,8 +21,8 @@
 
 - 🎞️ Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
-<p align="center">
-
+<p align="center">  
+<hr>
 <h3 align="left">Connect With Me:</h3>
 
 - [Spotify](https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1)
@@ -42,6 +42,7 @@
 - [Discord](https://discord.com/users/878309088126197860)
 
 - [Telegram](https://t.me/NawrasseDahman)
+<hr>
 
 ### Languages And Frameworks:
 
@@ -67,9 +68,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<hr>
 
 ### Achievements:
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/878309088126197860?theme=dark&bg=282a36&idleMessage=%20Manners,%20Maketh,%20Men.)](https://discord.com/users/878309088126197860)
 
 <img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages&border_color=FFFFFF" width="512" />
