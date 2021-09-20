@@ -72,4 +72,4 @@
 
 ### Achievements:
 ![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
-<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages&border_color=FFFFFF" width="512" />
+<img align="center" src="https://github-readme-stats-nawrassedahman.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&theme=dracula&langs_count=10" alt="NawrasseDahman's Most Used Languages&border_color=FFFFFF" width="496" />
