@@ -3,7 +3,7 @@
 
 - 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
-- 👑 Founder & CEO Of [**@Urban SASS**](https://github.com/Urban-SASS)
+- 👑 Founder & CEO Of [**@Urban SASS**](https://github.com/UrbanSASS)
 
 - 🧠 Currently Learning **Everything**
 
