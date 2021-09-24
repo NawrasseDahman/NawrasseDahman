@@ -1,5 +1,5 @@
 ![Header Png](/header.png)
-<h3 align="center">A Full-Stack Developer & Designer | 👨‍💻 </h3>
+<h3 align="right">A Full-Stack Developer & Designer | 👨‍💻 </h3>
 
 <hr>
 
