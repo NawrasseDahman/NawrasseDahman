@@ -67,6 +67,22 @@
     </td>
 </code>
 
+<code>
+    <td align="center">
+      <a href="https://twitter.com/nawrassedahman">
+       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+</code>
+
+<code>
+    <td align="center">
+      <a href="https://dev.to/nawrassedahman">
+       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To" />
+      </a>
+    </td>
+</code>
+
 <hr>
 
 ### Technologies That I Use:
