@@ -1,5 +1,6 @@
 ![Header Png](/header.png)
 <h3 align="center">A Full-Stack Developer & Designer | 👨‍💻 </h3>
+
 <hr>
 
 - 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
@@ -22,8 +23,10 @@
 
 - 🎞️ Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
-<p align="center">  
+<p align="center">
+  
 <hr>
+
 <h3 align="left">Connect With Me:</h3>
 
 - [Spotify](https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1)
@@ -43,6 +46,7 @@
 - [Discord](https://discord.com/users/878309088126197860)
 
 - [Telegram](https://t.me/NawrasseDahman)
+
 <hr>
 
 ### Technologies That I Use:
@@ -71,6 +75,7 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 <hr>
 
 ### Achievements:
