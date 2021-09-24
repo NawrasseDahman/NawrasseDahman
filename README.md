@@ -1,4 +1,4 @@
-![Header Png](/header.png)
+![Header](/header.png)
 
 <hr>
 
