@@ -2,12 +2,6 @@
 
 <hr>
 
-| Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245) |
-
-<hr>
-
 - 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
 - 👑 Founder & CEO Of [**@Urban SASS**](https://github.com/UrbanSASS)
