@@ -43,7 +43,13 @@
     </td>
 </code>
 
-
+<code>
+    <td align="center">
+      <a href="https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+      </a>
+    </td>
+</code>
 
 <hr>
 
