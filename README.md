@@ -27,24 +27,23 @@
 <hr>
 
 <h3 align="left">Connect With Me:</h3>
+<code>
+    <td align="center">
+      <a href="https://discord.com/users/878309088126197860">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+    </td>
+</code>
 
-- [Spotify](https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1)
+<code>
+    <td align="center">
+      <a href="https://t.me/NawrasseDahman">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+    </td>
+</code>
 
-- [Codepen](https://codepen.io/nawrassedahman)
 
-- [Dev.to](https://dev.to/nawrassedahman)
-
-- [Linkedin](https://www.linkedin.com/in/nawrassedahman/)
-
-- [Twitter](https://twitter.com/nawrassedahman)
-
-- [Instagram](https://www.instagram.com/nawrassedahman)
-
-- [Facebook](https://www.facebook.com/nawrassedahman)
-
-- [Discord](https://discord.com/users/878309088126197860)
-
-- [Telegram](https://t.me/NawrasseDahman)
 
 <hr>
 
