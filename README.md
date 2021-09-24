@@ -54,7 +54,15 @@
 <code>
     <td align="center">
       <a href="https://codepen.io/nawrassedahman">
-       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Discord" />
+       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+      </a>
+    </td>
+</code>
+
+<code>
+    <td align="center">
+      <a href="https://www.instagram.com/NawrasseDahman">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
     </td>
 </code>
