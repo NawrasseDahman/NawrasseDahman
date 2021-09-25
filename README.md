@@ -16,7 +16,7 @@
 
 - 🗣️ Ask Me About **Programming Languages**
 
-- 📧 How To Reach Me: **nawrassehimself@pm.me**
+- 📧 How To Reach Me: **nawrassehimself@pm.me** & **nawrassehimself@gmail.com**
 
 - ☑️ Random Fact: **I'm Also Available For Hire**
 
