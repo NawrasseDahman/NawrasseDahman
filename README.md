@@ -28,99 +28,75 @@
 
 <h3 align="left">Connect With Me:</h3>
 <code>
-    <td align="center">
-      <a href="https://discord.com/users/878309088126197860">
+       <a href="https://discord.com/users/878309088126197860">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://t.me/NawrasseDahman">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://codepen.io/nawrassedahman">
        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://www.instagram.com/NawrasseDahman">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://twitter.com/nawrassedahman">
        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://dev.to/nawrassedahman">
        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://www.facebook.com/nawrassedahman">
        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://www.linkedin.com/in/nawrassedahman/">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteq" alt="Linkedin" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="mailto:nawrassehimself@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://www.snapchat.com/add/nawrassedahman">
        <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat" />
       </a>
-    </td>
 </code>
 
 <code>
-    <td align="center">
       <a href="https://dribbble.com/nawrassedahman/">
        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
       </a>
-    </td>
 </code>
 
 <hr>
