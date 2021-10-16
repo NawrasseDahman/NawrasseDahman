@@ -2,25 +2,25 @@
 
 <hr>
 
-- 🤖 Currently Working On [**Everything**](https://github.com/NawrasseDahman)
+- 🤖 | Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
-- 👑 Founder & CEO Of [**@Urban SASS**](https://github.com/UrbanSASS)
+- 👑 | Founder & CEO Of [**@Urban SASS**](https://github.com/UrbanSASS)
 
-- 🧠 Currently Learning **Everything**
+- 🧠 | Currently Learning **Everything**
 
-- 👨‍💻 Check Out My [**Website**](https://nawrassedhm.vercel.app/) **If You Want To Know More About Me**
+- 👨‍💻 | Check Out My [**Website**](https://nawrassedhm.vercel.app/) **If You Want To Know More About Me**
 
-- 🌟 Check Out My [**Projects**](https://nawrassedahman.github.io/Repository) **If You Want To More About Them**
+- 🌟 | Check Out My [**Projects**](https://nawrassedahman.github.io/Repository) **If You Want To More About Them**
 
-- 🤩 Looking To Collaborate With **More Developers**
+- 🤩 | Looking To Collaborate With **More Developers**
 
-- 🗣️ Ask Me About **Programming Languages**
+- 🗣️ | Ask Me About **Programming Languages**
 
-- 📧 How To Reach Me: **nawrassehimself@gmail.com**
+- 📧 | How To Reach Me: **nawrassehimself@gmail.com**
 
-- ☑️ Random Fact: **I'm Also Available For Hire**
+- ☑️ | Random Fact: **I'm Also Available For Hire**
 
-- 🎞️ Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
+- 🎞️ | Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
 <p align="center">
   
