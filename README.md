@@ -70,4 +70,4 @@
 
 ### Github Stats:
 
-[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&theme=gruvbox_light&title_color=000000&text_color=000000&icon_color=13100e&bg_color=fbe4c4&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
