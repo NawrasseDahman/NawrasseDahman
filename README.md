@@ -66,3 +66,8 @@
 <code>![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)</code>
 <code>![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</code>
 <code>![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)</code>
+
+
+### Github Stats:
+
+[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
