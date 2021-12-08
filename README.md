@@ -3,7 +3,7 @@
 <hr>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFE2C0&size=25&center=true&vCenter=true&lines=Moroccan+Software+Engineer;Self-Taught++Web+Developer;Self-Taught+Web+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFE2C0&size=25&center=true&vCenter=true&lines=Moroccan+Full-Stack+Developer;Self-Taught++Web+Developer;Self-Taught+Web+Designer">
 </p>
 
 - 🤖 | Currently Working On [**Everything**](https://github.com/NawrasseDahman)
