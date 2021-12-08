@@ -2,6 +2,10 @@
 
 <hr>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFE2C0&size=25&center=true&vCenter=true&lines=Made+In+Morocco;Self-Taught++Web+Developer;Self-Taught+Web+Designer">
+</p>
+
 - 🤖 | Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
 - 👑 | Founder & CEO Of [**@Urban SASS**](https://github.com/UrbanSASS)
@@ -71,6 +75,6 @@
 
 ### Github Stats:
 
-[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=13100e&bg_color=fbe4c4&border_color=000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=13100e&bg_color=FFE2C0&border_color=000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=000000&text_color=000000&icon_color=13100e&bg_color=fbe4c4&border_color=000000&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=000000&text_color=000000&icon_color=13100e&bg_color=FFE2C0&border_color=000000&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
