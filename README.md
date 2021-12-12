@@ -34,7 +34,7 @@
 
 <code><a href="https://discord.com/users/878309088126197860"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a></code>
 <code><a href="https://t.me/NawrasseDahman"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a></code>
-<code><a href="https://open.spotify.com/user/72clwpvmzjpne0gpnfs9tldd9?si=gRZFoZ6NRYOrVlUKIiPQXQ&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a></code>
+<code><a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=i38Ih3MgQTuypyjtO7cH6w&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a></code>
 <code><a href="https://codepen.io/nawrassedahman"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a></code>
 <code><a href="https://www.instagram.com/NawrasseDahman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
 <code><a href="https://twitter.com/nawrassedahman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a></code>
