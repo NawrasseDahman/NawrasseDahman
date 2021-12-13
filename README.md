@@ -79,3 +79,7 @@
 [![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=13100e&bg_color=FFE2C0&border_color=000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=000000&text_color=000000&icon_color=13100e&bg_color=FFE2C0&border_color=000000&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Discord Presence:
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/878309088126197860)](https://discord.com/users/878309088126197860)
