@@ -82,4 +82,4 @@
 
 ### My Discord Presence:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/878309088126197860)](https://discord.com/users/878309088126197860)
+[![Discord Presence](https://lanyard.cnrad.dev/api/878309088126197860?theme=light&bg=FFE2C0)](https://discord.com/users/878309088126197860)
