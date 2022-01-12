@@ -87,6 +87,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
 
 ### Spotify Presence:
 
