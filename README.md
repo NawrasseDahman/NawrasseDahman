@@ -89,4 +89,5 @@
 
 
 ### Spotify Presence:
-[![Discord Presence](https://lanyard.cnrad.dev/api/878309088126197860?bg=493509&idleMessage=Not%20Listening%20To%20Spotify%20Right%20Now.)](https://discord.com/users/878309088126197860)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&redirect=true)
