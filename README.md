@@ -90,4 +90,8 @@
 
 ### Spotify Presence:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&redirect=true)
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=natemoo-re&bar_color=00FF00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
+<table>
+  <thead>
