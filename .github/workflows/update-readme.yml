@@ -18,3 +18,6 @@ jobs:
         with:
           COMMIT_MSG: 'Updated With Github'
           MAX_LINES: 10
+
+- name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.3.6
