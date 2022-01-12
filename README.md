@@ -81,6 +81,8 @@
 
 <hr>
 
+<!--START_SECTION:activity-->
+
 ### Github Stats:
 
 [![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
