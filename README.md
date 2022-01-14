@@ -1,6 +1,4 @@
-![logo](logo.png)
-
-<hr>
+## ![logo](logo.png)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=CC8B69&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Self-Taught++Web+Developer;Self-Taught+Web+Designer">
@@ -26,9 +24,7 @@
 
 - 🎞️ | Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
-<p align="center">
-  
-<hr>
+## <p align="center">
 
 <h3 align="left">Connect With Me:</h3>
 
@@ -41,7 +37,7 @@
 <code><a href="https://www.snapchat.com/add/nawrassedahman"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat" /></a></code>
 <code><a href="https://nawrasse.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
 <code><a href="mailto:nawrassehimself@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
-<hr>
+##
 
 ### Technologies That I Use:
 
@@ -78,8 +74,7 @@
 <code>![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)</code>
 <code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 <code>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</code>
-
-<hr>
+##
 
 ### Github Stats:
 
@@ -97,7 +92,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<hr>
+##
 
 ### Spotify Presence:
 
@@ -108,10 +103,10 @@
 <table width="100%" height="100%"> 
   <tr>
   <td width="100%" height="100%">
-    
+ 
 <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
- </td>
+  </td>
 <table>
 </details>
   
