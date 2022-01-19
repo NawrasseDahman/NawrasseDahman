@@ -31,10 +31,10 @@
 ### My Open Source Projects:
 
 <p align="left">
-  <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Portfolio Terminal"></a>
-  <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
-  <a href="https://github.com/NawrasseDahman/Spotify-Now-Playing"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Spotify-Now-Playing&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Spotify Now Playing"></a>
-  <a href="https://github.com/NawrasseDahman/Text-Editor"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Text-Editor&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Text Editor"></a>
+  <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Portfolio Terminal"></a>
+  <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
+  <a href="https://github.com/NawrasseDahman/Spotify-Now-Playing"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Spotify-Now-Playing&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Spotify Now Playing"></a>
+  <a href="https://github.com/NawrasseDahman/Text-Editor"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Text-Editor&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Text Editor"></a>
 
 <p align="left">
   <a href="https://github.com/NawrasseDahman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -100,16 +100,9 @@
 
 <details>
   <summary> GitHub Profile Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NawrasseDahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&include_all_commits=true" width="50%" height="50%"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NawrasseDahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509" width="50%" height="50%"/></a>
   <br/>
-
-[![Nawrasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary> GitHub Top Languages</summary>
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&langs_count=10&theme=gruvbox_light&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&border_color=493509&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ##
