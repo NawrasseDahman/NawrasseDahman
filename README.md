@@ -34,6 +34,7 @@
   <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Portfolio Terminal"></a>
   <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
   <a href="https://github.com/NawrasseDahman/Spotify-Now-Playing"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Spotify-Now-Playing&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Spotify Now Playing"></a>
+  <a href="https://github.com/NawrasseDahman/Text-Editor"><img width="302" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Text-Editor&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Text Editor"></a>
   
 </p>
 
