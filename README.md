@@ -24,18 +24,22 @@
 
 - 🎞️ | Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
 
-## <p align="center">
+<p align="center">
 
-<h3 align="left">My Open Source Projects :</h3>
+##
+
+### Technologies That I Use:
 
 <p align="left">
-  <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509" alt="Portfolio Terminal"></a>
-  
+  <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Portfolio Terminal"></a>
+
+
+
 </p>
 
 ##
 
-<h3 align="left">Connect With Me:</h3>
+### Connect With Me:
 
 <code><a href="https://discord.com/users/878309088126197860"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a></code>
 <code><a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=i38Ih3MgQTuypyjtO7cH6w&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a></code>
@@ -46,6 +50,7 @@
 <code><a href="https://www.snapchat.com/add/nawrassedahman"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat" /></a></code>
 <code><a href="https://nawrasse.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
 <code><a href="mailto:nawrassehimself@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
+
 ##
 
 ### Technologies That I Use:
@@ -83,6 +88,7 @@
 <code>![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)</code>
 <code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 <code>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</code>
+
 ##
 
 ### Github Stats:
