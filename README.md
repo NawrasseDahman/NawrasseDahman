@@ -98,10 +98,6 @@
 
 ### Spotify Presence:
 
-<details>
-  <summary>What I'm Listening To Now</summary>
-  <br/>
-
 <table width="100%" height="100%"> 
   <tr>
   <td width="100%" height="100%">
@@ -110,5 +106,3 @@
  
   </td>
 <table>
-</details>
-  
