@@ -106,7 +106,7 @@
   <tr>
   <td width="100%" height="100%">
  
-<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
   </td>
 <table>
