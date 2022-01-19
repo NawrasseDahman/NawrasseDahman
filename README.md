@@ -26,6 +26,15 @@
 
 ## <p align="center">
 
+<h3 align="left">My Open Source Projects :</h3>
+
+<p align="left">
+  <a href="https://github.com/NawrasseDahman/Portfolio-Terminal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Portfolio-Terminal&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509" alt="Portfolio Terminal"></a>
+  
+</p>
+
+##
+
 <h3 align="left">Connect With Me:</h3>
 
 <code><a href="https://discord.com/users/878309088126197860"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a></code>
