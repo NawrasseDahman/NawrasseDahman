@@ -1,7 +1,7 @@
 ## ![logo](logo.png)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CC8B69&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Self-Taught++Web+Developer;Self-Taught+Web+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=CC8B69&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Self-Taught+Web+Developer;Self-Taught+Web+Designer;Over+5%2B+Years+Of+Experience">
 </p>
 
 - 🤖 | Currently Working On [**Everything**](https://github.com/NawrasseDahman)
