@@ -2,8 +2,7 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=CC8B69&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Self-Taught+Web+Developer;Self-Taught+Web+Designer;5%2B+Years+Of+Experience">
-</p>
-
+  
 - 🤖 | Currently Working On [**Everything**](https://github.com/NawrasseDahman)
 
 - 👑 | Founder & CEO Of [**Urban SASS**](https://github.com/UrbanSASS)
@@ -23,8 +22,6 @@
 - ☑️ | Random Fact: **I'm Also Available For Hire**
 
 - 🎞️ | Fun Fact: **I Can Remember All Of The Realeased Dates Of Movies & Tv Shows**
-
-<p align="center">
 
 ##
 
