@@ -99,16 +99,3 @@
 <code>![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)</code>
 <code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 <code>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</code>
-
-##
-
-### Spotify Presence:
-
-<table width="100%" height="100%"> 
-  <tr>
-  <td width="100%" height="100%">
- 
-<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
- 
-  </td>
-<table>
