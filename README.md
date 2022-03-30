@@ -52,7 +52,7 @@
 ### Github Stats:
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&include_all_commits=true" alt="Nawrasse Github Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&include_all_commits=true&hide_title=true" alt="Nawrasse Github Stats" /></a>
 </p>
 
 ##
