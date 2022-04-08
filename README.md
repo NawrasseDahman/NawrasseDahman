@@ -28,7 +28,7 @@
 ### My Open Source Projects:
 
   <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
-  <a href="https://github.com/NawrasseDahman/Url-Shortner"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Url-Shortner&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Url Shortner"></a>
+  <a href="https://github.com/NawrasseDahman/Mantine.dev"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Mantine.dev&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Mantine.Dev"></a>
   <a href="https://github.com/NawrasseDahman/Mailsy"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Mailsy&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Mailsy"></a>
   <a href="https://github.com/NawrasseDahman/PlayRoom-3D"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=PlayRoom-3D&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="PlayRoom 3D"></a>
 
