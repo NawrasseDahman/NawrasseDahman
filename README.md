@@ -62,10 +62,9 @@
 <code><a href="https://www.instagram.com/NawrasseDahman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
 <code><a href="https://twitter.com/nawrassedahman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a></code>
 <code><a href="https://www.facebook.com/nawrassedahman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></code>
-<code><a href="https://www.snapchat.com/add/nawrassedahman"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat" /></a></code>
+<code><a href="https://www.polywork.com/nawrassedahman"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork" /></a></code>
 <code><a href="https://nawrasse.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
 <code><a href="mailto:nawrassehimself@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
-<code><a href="https://sponsornawrasse.vercel.app"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor" /></a></code>
 
 ##
 
