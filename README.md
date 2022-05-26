@@ -30,7 +30,7 @@
   <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
   <a href="https://github.com/NawrasseDahman/Mantine.dev"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Mantine.dev&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Mantine.Dev"></a>
   <a href="https://github.com/NawrasseDahman/Mailsy"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Mailsy&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Mailsy"></a>
-  <a href="https://github.com/NawrasseDahman/PlayRoom-3D"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=PlayRoom-3D&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="PlayRoom 3D"></a>
+  <a href="https://github.com/NawrasseDahman/Math.ts"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Math.ts&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Math.Ts"></a>
 
 <p align="left">
   <a href="https://github.com/NawrasseDahman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" /></a>
@@ -84,7 +84,6 @@
 <code>![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)</code>
 <code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
 <code>![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)</code>
-<code>![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)</code>
 <code>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</code>
 <code>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</code>
 <code>![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)</code>
