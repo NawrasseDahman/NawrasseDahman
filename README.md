@@ -19,7 +19,7 @@
 
 - ☑️ | Random Fact: **I'm Also Available For Hire**
 
-- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Shows*
+- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Shows**
 
 ##
 
