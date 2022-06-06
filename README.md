@@ -19,20 +19,7 @@
 
 - ☑️ | Random Fact: **I'm Also Available For Hire**
 
-- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Shows**
-
-##
-
-### My Open Source Projects:
-
-  <a href="https://github.com/NawrasseDahman/Markdown-X"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Markdown-X&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Markdown X"></a>
-  <a href="https://github.com/NawrasseDahman/Music-Player"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Music-Player&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Music Player"></a>
-  <a href="https://github.com/NawrasseDahman/Mailsy"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Mailsy&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Mailsy"></a>
-  <a href="https://github.com/NawrasseDahman/Math.ts"><img width="302px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NawrasseDahman&repo=Math.ts&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&show_icons=false" alt="Math.Ts"></a>
-
-<p align="left">
-  <a href="https://github.com/NawrasseDahman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" /></a>
-</p>
+- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Shows*
 
 ##
 
