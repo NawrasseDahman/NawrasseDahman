@@ -89,3 +89,16 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&include_all_commits=true&hide_title=true" alt="Nawrasse Github Stats" /></a>
 </p>
+
+##
+
+### Spotify Presence:
+
+<table width="100%" height="100%"> 
+  <tr>
+  <td width="100%" height="100%">
+ 
+<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ 
+  </td>
+<table>
