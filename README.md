@@ -94,4 +94,4 @@
 
 ### Spotify Presence:
 
-![presence](https://presence.im/api/spotify/track/2P91MQbaiQOfbiz9VqhqKQ?index=1)
+![presence](https://presence.im/api/spotify/track/7LzouaWGFCy4tkXDOOnEyM?type=base64&bg=493509&icon=CC8B69)
