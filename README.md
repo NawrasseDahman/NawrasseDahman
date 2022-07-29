@@ -94,11 +94,4 @@
 
 ### Spotify Presence:
 
-<table width="100%" height="100%"> 
-  <tr>
-  <td width="100%" height="100%">
- 
-<br> ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4pevqlgntbtzf7quj0q307245&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
- 
-  </td>
-<table>
+![presence](https://presence.im/api/spotify/track/2P91MQbaiQOfbiz9VqhqKQ?index=1)
