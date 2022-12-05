@@ -29,7 +29,7 @@
 <code><a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=i38Ih3MgQTuyp#yjtO7cH6w&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a></code>
 <code><a href="https://codepen.io/nawrassedahman"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a></code>
 <code><a href="https://www.instagram.com/NawrasseDahman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
-<code><a href="https://twitter.com/nawrassedahman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a></code>
+
 <code><a href="https://www.facebook.com/nawrassedahman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></code>
 <code><a href="https://nawrasse.tk/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
 <code><a href="mailto:nawrassedhm@writeme.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
@@ -46,11 +46,11 @@
 <code>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code>
 <code>![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</code>
 <code>![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)</code>
-<code>![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)</code>
+
 <code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</code>
-<code>![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)</code>
+
 <code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
-<code>![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)</code>
+
 <code>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</code>
 <code>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</code>
 <code>![Nuxtjs](https://img.shields.io/badge/nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)</code>
@@ -79,7 +79,7 @@
 ### Most Used Languages:
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawrasseDahman&layout=compact&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&langs_count=10&hide_title=true&count_private=true" alt="Nawrasse Top Languages" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawrassedhm&layout=compact&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&langs_count=10&hide_title=true&count_private=true" alt="Nawrasse Top Languages" /></a>
 </p>
 
 ##
@@ -87,5 +87,5 @@
 ### Github Stats:
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NawrasseDahman&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&include_all_commits=true&hide_title=true" alt="Nawrasse Github Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=nawrassedhm&show_icons=true&count_private=true&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&include_all_commits=true&hide_title=true" alt="Nawrasse Github Stats" /></a>
 </p>
